@@ -31,5 +31,7 @@ In this project, I have tried fitting a regression model to the Bangalore house 
    * Changing each feature individually to have better correlation with price.
    * Remove outliers .Check non-binary feature separately.
    * Take log(1+x) for skewed features.
+# code:
+The code files have been uploaded. Please review those, if possible. Thanks very much!😃
 # Result: 🏆
 Obtained a ML model with r2_score of 0.684 in training data, 0.662 in testing data and 0.6734 for the complete dataset.
