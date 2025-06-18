@@ -17,7 +17,7 @@ In this project, I have tried fitting a regression model to the Bangalore house 
 # Updated dataset for use:(self modified)
 [updated_sheet.csv](https://github.com/user-attachments/files/20776137/updated_sheet.csv)
 - This dataset contains the features after modification, ready for use in my ML model.
-# Steps:
+# Steps: 🚀
    * Correct data types of all data to integer or float for model.
    * Perform Coversion for data present in different units.
    * Remove or replace null data. (replace with best match, mean or delete)
@@ -31,5 +31,5 @@ In this project, I have tried fitting a regression model to the Bangalore house 
    * Changing each feature individually to have better correlation with price.
    * Remove outliers .Check non-binary feature separately.
    * Take log(1+x) for skewed features.
-# Result:
+# Result: 🏆
 Obtained a ML model with r2_score of 0.684 in training data, 0.662 in testing data and 0.6734 for the complete dataset.
